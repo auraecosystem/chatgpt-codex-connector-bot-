@@ -1,6 +1,6 @@
 # start
 > 
-^|D @codex @chatgpt-codex-connector
+^|D @codexlmlm @chatgpt-codex-connector
 
 ## Aura Ecosystem Engineering Charter v1.0
 
